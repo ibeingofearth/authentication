@@ -52,7 +52,7 @@ function App() {
           _hover={{
           bg: 'blue.500',
           }}>
-          Sign in
+          login
           </Button>    
           </VStack>
     </Grid>
